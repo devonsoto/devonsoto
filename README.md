@@ -28,11 +28,8 @@
 ### 👨‍💻 About Me :
 
 I am a Full Stack Developer from Denver, CO 🏔️.
-
-- 🔭 I’m currently working on creating a simple budget app for families and getting my AWS-SAA certificate.  
-- 🌱 I’m currently learning how to use OPENAI's api and continuously learning about full stack development. 
+- I am currently training for a triathlon later this year. I am creating some sort of journal/tracker/diet app for myself while I train. Take a look! 
 - 👯 I’m looking to collaborate on anything awesome. Whether you're barely getting into programming or have years of experience lets create something together. 
-- 💬 Ask me about my ongoing entrepreneurship journey, AI, anything about apex, and soccer related.
 - 📫 How to reach me: Through linkedin or send me an email !
 
 ---
@@ -40,7 +37,11 @@ I am a Full Stack Developer from Denver, CO 🏔️.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices" **alt="amazonwebservices" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" title="Solidjs" **alt="Solidjs" width="40" height="40"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" **alt="Astro" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" **alt="nextjs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -48,7 +49,6 @@ I am a Full Stack Developer from Denver, CO 🏔️.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
